@@ -25,3 +25,5 @@ Serial and TCP terminal for engineering and debugging
 PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform. PuTTY is open source software that is available with source code and is developed and supported by a group of volunteers.
 * [7-Zip](http://www.7-zip.org/)<br>
 7-Zip is a file archiver with a high compression ratio.
+* [WinSCP](https://winscp.net/eng/download.php)<br>
+WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality. 
