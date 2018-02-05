@@ -1,6 +1,9 @@
 # Text
 * [Evince](https://wiki.gnome.org/Apps/Evince)<br>
 Evince is specifically designed to support the file following formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt).
+* [LibreOffice](https://www.libreoffice.org/)<br>
+LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
 
 # Storage
 * [Rufus](https://rufus.akeo.ie/)<br>
@@ -9,6 +12,8 @@ Rufus is a utility that helps format and create bootable USB flash drives, such 
 # Design
 * [KiCad](http://kicad-pcb.org/)<br>
 KiCad is an open source software suite for Electronic Design Automation (EDA). The programs handle Schematic Capture, and PCB Layout with Gerber output.
+* [LibrePCB](http://librepcb.org/)<br>
+LibrePCB is a free EDA software to develop printed circuit boards.
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)<br>
 Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
 
