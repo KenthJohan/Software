@@ -15,7 +15,9 @@ Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects you
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. 
-
+* [OBS Studio](https://obsproject.com/)
+Free and open source software for video recording and live streaming.
+High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
 # Miscellaneous
 * [Transmission](https://transmissionbt.com/)<br>
 Transmission is a cross-platform BitTorrent client.
