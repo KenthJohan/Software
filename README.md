@@ -1,4 +1,4 @@
-# Text
+# Document tools
 * [Evince](https://wiki.gnome.org/Apps/Evince)<br>
 `Linux` `Windows`<br>
 Evince is specifically designed to support the file following formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt).
@@ -6,6 +6,8 @@ Evince is specifically designed to support the file following formats: PDF, Post
 `Linux` `Mac OS` `Windows`<br>
 LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
+
+# Programming
 * [Notepad++](https://notepad-plus-plus.org/)<br>
 `Windows`<br>
 Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
@@ -17,7 +19,7 @@ Geany is a text editor using the GTK+ toolkit with basic features of an integrat
 The GNAT Programming Studio (GPS) is a powerful and intuitive IDE that supports the full development workflow, from coding to system integration, testing, debugging, and code analysis. GPS is versatile and customizable and gives you easy access to the GNAT Pro technologies.
 
 
-# Storage
+# Storage device tools
 * [Rufus](https://rufus.akeo.ie/)<br>
 `Windows`<br>
 Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
