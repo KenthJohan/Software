@@ -6,6 +6,12 @@ Evince is specifically designed to support the file following formats: PDF, Post
 `Linux` `Mac OS` `Windows`<br>
 LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
+* [Notepad++](https://notepad-plus-plus.org/)<br>
+`Windows`<br>
+Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
+* [Geany](https://www.geany.org/)<br>
+`Linux` `Windows`<br>
+Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.
 
 # Storage
 * [Rufus](https://rufus.akeo.ie/)<br>
