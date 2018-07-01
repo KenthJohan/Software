@@ -21,6 +21,12 @@ LibrePCB is a free EDA software to develop printed circuit boards.
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)<br>
 `Windows`<br>
 Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
+* [Inkscape](https://inkscape.org/en/)<br>
+`Linux` `Mac OS` `Windows`<br>
+Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+* [GIMP](https://www.gimp.org/)<br>
+`Linux` `Mac OS` `Windows`<br>
+GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
