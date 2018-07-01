@@ -3,7 +3,7 @@
 `Linux` `Windows`<br>
 Evince is specifically designed to support the file following formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt).
 * [LibreOffice](https://www.libreoffice.org/)<br>
-`Linux, Mac OS, Windows`<br>
+`Linux` `Mac OS` `Windows`<br>
 LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
 
@@ -14,7 +14,7 @@ Rufus is a utility that helps format and create bootable USB flash drives, such 
 
 # Design
 * [KiCad](http://kicad-pcb.org/)<br>
-`Linux, Windows`<br>
+`Linux` `Windows`<br>
 KiCad is an open source software suite for Electronic Design Automation (EDA). The programs handle Schematic Capture, and PCB Layout with Gerber output.
 * [LibrePCB](http://librepcb.org/)<br>
 LibrePCB is a free EDA software to develop printed circuit boards.
@@ -24,16 +24,16 @@ Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects you
 
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
-`Linux, Mac OS, Windows, Android`<br>
+`Linux` `Mac OS` `Windows` `Android`<br>
 VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. 
 * [OBS Studio](https://obsproject.com/)<br>
-`Linux, Mac OS, Windows`<br>
+`Linux` `Mac OS` `Windows`<br>
 Free and open source software for video recording and live streaming.
 High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
 
 # Miscellaneous
 * [Transmission](https://transmissionbt.com/)<br>
-`Linux, Mac OS, Windows`<br>
+`Linux` `Mac OS` `Windows`<br>
 Transmission is a cross-platform BitTorrent client.
 * [RealTerm](https://sourceforge.net/projects/realterm/)<br>
 `Windows`<br>
