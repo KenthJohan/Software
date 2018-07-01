@@ -1,6 +1,6 @@
 # Text
 * [Evince](https://wiki.gnome.org/Apps/Evince)<br>
-`Linux, Windows`<br>
+`Linux` `Windows`<br>
 Evince is specifically designed to support the file following formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt).
 * [LibreOffice](https://www.libreoffice.org/)<br>
 `Linux, Mac OS, Windows`<br>
