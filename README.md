@@ -6,6 +6,9 @@ Evince is specifically designed to support the file following formats: PDF, Post
 `Linux` `Mac OS` `Windows`<br>
 LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 LibreOffice includes several applications that make it the most powerful Free and Open Source office suite on the market.
+* [ONLYOFFICE](https://www.onlyoffice.com/)<br>
+`Linux` `Mac OS` `Windows`<br>
+ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online
 
 # Programming
 * [Notepad++](https://notepad-plus-plus.org/)<br>
@@ -65,3 +68,5 @@ PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the 
 * [WinSCP](https://winscp.net/eng/download.php)<br>
 `Windows`<br>
 WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality. 
+* [ConEmu](https://conemu.github.io/)<br>
+ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash). 
