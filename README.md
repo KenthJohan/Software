@@ -52,7 +52,8 @@ GIMP is an acronym for GNU Image Manipulation Program. It is a freely distribute
 Shotcut is a free, open source, cross-platform video editor.
 * [Olive](https://www.olivevideoeditor.org/)<br>
 Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
-
+* [HandBrake](https://handbrake.fr/)<br>
+HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
