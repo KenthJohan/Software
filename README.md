@@ -42,8 +42,13 @@ Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, 
 * [GIMP](https://www.gimp.org/)<br>
 `Linux` `Mac OS` `Windows`<br>
 GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
+
+# Video editor
 * [Shotcut](https://shotcut.org/)<br>
 Shotcut is a free, open source, cross-platform video editor.
+* [Olive](https://www.olivevideoeditor.org/)<br>
+Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+
 
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
