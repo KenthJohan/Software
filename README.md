@@ -54,6 +54,8 @@ Shotcut is a free, open source, cross-platform video editor.
 Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 * [HandBrake](https://handbrake.fr/)<br>
 HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+* [DaVinci Resolve](https://www.blackmagicdesign.com/se/products/davinciresolve/)<br>
+DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound designers can all work live on the same project at the same time! Whether you’re an individual artist, or part of a large collaborative team, it’s easy to see why DaVinci Resolve is the standard for high end post production and finishing on more Hollywood feature films, television shows and commercials than any oth
 
 # Media
 * [VLC](https://www.videolan.org/vlc/index.html)<br>
