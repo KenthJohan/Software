@@ -27,15 +27,19 @@ The GNAT Programming Studio (GPS) is a powerful and intuitive IDE that supports 
 `Windows`<br>
 Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
 
-# Design
+# EDA
 * [KiCad](http://kicad-pcb.org/)<br>
 `Linux` `Windows`<br>
 KiCad is an open source software suite for Electronic Design Automation (EDA). The programs handle Schematic Capture, and PCB Layout with Gerber output.
 * [LibrePCB](http://librepcb.org/)<br>
 LibrePCB is a free EDA software to develop printed circuit boards.
+
+# CAD
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)<br>
 `Windows`<br>
 Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
+
+# Image editing
 * [Inkscape](https://inkscape.org/en/)<br>
 `Linux` `Mac OS` `Windows`<br>
 Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
@@ -43,7 +47,7 @@ Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, 
 `Linux` `Mac OS` `Windows`<br>
 GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 
-# Video editor
+# Video editing
 * [Shotcut](https://shotcut.org/)<br>
 Shotcut is a free, open source, cross-platform video editor.
 * [Olive](https://www.olivevideoeditor.org/)<br>
@@ -75,5 +79,7 @@ PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the 
 * [WinSCP](https://winscp.net/eng/download.php)<br>
 `Windows`<br>
 WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality. 
+
+# Terminals
 * [ConEmu](https://conemu.github.io/)<br>
 ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash). 
