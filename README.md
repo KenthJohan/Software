@@ -64,6 +64,12 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 Free and open source software for video recording and live streaming.
 High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
 
+# Audio
+* [Audacity](https://www.audacityteam.org/)<br>
+Free, open source, cross-platform audio software<br>
+Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems.<br>
+Developed by a group of volunteers as open source.
+
 # Miscellaneous
 * [Transmission](https://transmissionbt.com/)<br>
 `Linux` `Mac OS` `Windows`<br>
