@@ -10,7 +10,7 @@ LibreOffice includes several applications that make it the most powerful Free an
 `Linux` `Mac OS` `Windows`<br>
 ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online
 
-# Programming
+# IDE
 * [Notepad++](https://notepad-plus-plus.org/)<br>
 `Windows`<br>
 Notepad++ is a free (as in "free speech" and also as in "free beer") source code editor and Notepad replacement that supports several languages.
@@ -20,7 +20,8 @@ Geany is a text editor using the GTK+ toolkit with basic features of an integrat
 * [GNAT Programming Studio](https://www.adacore.com/gnatpro/toolsuite/gps)<br>
 `Linux` `Windows`<br>
 The GNAT Programming Studio (GPS) is a powerful and intuitive IDE that supports the full development workflow, from coding to system integration, testing, debugging, and code analysis. GPS is versatile and customizable and gives you easy access to the GNAT Pro technologies.
-
+* [Visual Studio Code](https://code.visualstudio.com/)<br>
+Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
 # Storage device tools
 * [Rufus](https://rufus.akeo.ie/)<br>
