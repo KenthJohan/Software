@@ -93,3 +93,7 @@ WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client 
 # Terminals
 * [ConEmu](https://conemu.github.io/)<br>
 ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal window where you may host any console application developed either for WinAPI (cmd, powershell, far) or Unix PTY (cygwin, msys, wsl bash). 
+
+# Plot tools
+* [gnuplot](http://www.gnuplot.info/)<br>
+Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed (i.e., you don't have to pay for it). It was originally created to allow scientists and students to visualize mathematical functions and data interactively, but has grown to support many non-interactive uses such as web scripting. It is also used as a plotting engine by third-party applications like Octave. Gnuplot has been supported and under active development since 1986. 
