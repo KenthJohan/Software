@@ -97,3 +97,8 @@ ConEmu-Maximus5 aims to be handy, comprehensive, fast and reliable terminal wind
 # Plot tools
 * [gnuplot](http://www.gnuplot.info/)<br>
 Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed (i.e., you don't have to pay for it). It was originally created to allow scientists and students to visualize mathematical functions and data interactively, but has grown to support many non-interactive uses such as web scripting. It is also used as a plotting engine by third-party applications like Octave. Gnuplot has been supported and under active development since 1986. 
+
+# Win10
+* [O&O ShutUp10](https://www.oo-software.com/en/shutup10)<br>
+Free antispy tool for Windows 10. O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far. Using a very simple interface, you decide how Windows 10 should respect your privacy by deciding which unwanted functions should be deactivated.
+O&O ShutUp10 is entirely free and does not have to be installed – it can be simply run directly and immediately on your PC. And it will not install or download retrospectively unwanted or unnecessary software, like so many other programs do these days!
