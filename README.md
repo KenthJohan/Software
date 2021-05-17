@@ -9,6 +9,9 @@ LibreOffice includes several applications that make it the most powerful Free an
 * [ONLYOFFICE](https://www.onlyoffice.com/)<br>
 `Linux` `Mac OS` `Windows`<br>
 ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online
+* [html-notepad](https://html-notepad.com/)<br>
+`Linux` `Mac OS` `Windows`<br>
+HTML-NOTEPAD uses Sciter Engine for its UI. That means it is small, fast, does not have external dependencies and works on all major desktop operating systems
 
 # IDE
 * [Notepad++](https://notepad-plus-plus.org/)<br>
