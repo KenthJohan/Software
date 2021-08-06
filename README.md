@@ -2,6 +2,9 @@
 * [Evince](https://wiki.gnome.org/Apps/Evince)<br>
 `Linux` `Windows`<br>
 Evince is specifically designed to support the file following formats: PDF, Postscript, djvu, tiff, dvi, XPS, SyncTex support with gedit, comics books (cbr,cbz,cb7 and cbt).
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)<br>
+`Windows`<br>
+Sumatra PDF is powerful, small, portable and starts up very fast. Simplicity of the user interface has a high priority.
 * [LibreOffice](https://www.libreoffice.org/)<br>
 `Linux` `Mac OS` `Windows`<br>
 LibreOffice is a powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
