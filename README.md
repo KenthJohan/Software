@@ -43,6 +43,13 @@ Rufus is a utility that helps format and create bootable USB flash drives, such 
 KiCad is an open source software suite for Electronic Design Automation (EDA). The programs handle Schematic Capture, and PCB Layout with Gerber output.
 * [LibrePCB](http://librepcb.org/)<br>
 LibrePCB is a free EDA software to develop printed circuit boards.
+* [horizon-eda](https://horizon-eda.org/)<br>
+`Linux` `Windows`<br>
+Horizon EDA is an Electronic Design Automation package for printed circuit board design. With Horizon EDA you can:
+Comfortably use, maintain and share a pool of parts
+Draw schematics with a streamlined workflow
+Design, 3D-preview and export PCB layouts for manufacturing
+Horizon EDA is free and open source, built on a modern and legacy-free codebase and runs on Linux and Windows. 
 
 # CAD
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)<br>
