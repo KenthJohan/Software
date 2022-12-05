@@ -26,6 +26,18 @@ Notepad++ is a free (as in "free speech" and also as in "free beer") source code
 * [Geany](https://www.geany.org/)<br>
 `Linux` `Windows`<br>
 Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages. It supports many filetypes and has some nice features.
+* [MSYS2 qtcreator](https://www.msys2.org/wiki/GDB-qtcreator/)<br>
+* [MSYS2](https://www.msys2.org/)<br>
+`Windows`<br>
+```
+pacman -Syuu
+pacman -Syuu
+pacman -Syuu
+pacman -S mingw-w64-x86_64-toolchain
+pacman -S mingw-w64-x86_64-clang
+pacman -S mingw-w64-x86_64-clang-tools-extra
+pacman -S mingw-w64-x86_64-qt-creator
+```
 * [GNAT Studio](https://www.adacore.com/gnatpro/toolsuite/gnatstudio)<br>
 `Linux` `Windows`<br>
 GNAT Studio is a multi-language IDE with advanced support out-of-the-box for Ada, SPARK, C, C++ and Python.
