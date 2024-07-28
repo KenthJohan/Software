@@ -18,6 +18,9 @@ HTML-NOTEPAD uses Sciter Engine for its UI. That means it is small, fast, does n
 * [NAPS2](https://www.naps2.com/)<br>
 `Windows`<br>
 Easily scan with your chosen settings, or set up multiple profiles for different devices and configurations. Once you've finished scanning, you can save, email, or print with only a couple clicks. Save to PDF, TIFF, JPEG, PNG, or other file types.
+* [PDFgear](https://www.pdfgear.com/)<br>
+Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up. 
+
 
 # IDE
 * [Notepad++](https://notepad-plus-plus.org/)<br>
