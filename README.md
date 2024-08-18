@@ -99,6 +99,9 @@ VLC is a free and open source cross-platform multimedia player and framework tha
 `Linux` `Mac OS` `Windows`<br>
 Free and open source software for video recording and live streaming.
 High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
+* [mpv](https://mpv.io/)<br>
+`Linux` `Mac OS` `Windows`<br>
+mpv has an OpenGL, Vulkan, and D3D11 based video output that is capable of many features loved by videophiles, such as video scaling with popular high quality algorithms, color management, frame timing, interpolation, HDR, and more. 
 
 # Audio
 * [Audacity](https://www.audacityteam.org/)<br>
