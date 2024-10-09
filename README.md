@@ -68,8 +68,20 @@ Horizon EDA is free and open source, built on a modern and legacy-free codebase 
 
 # CAD
 * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)<br>
-`Windows`<br>
+`Free-Limited` `Windows`<br>
 Fusion 360TM is the first 3D CAD, CAM, and CAE tool of its kind. It connects your entire product development process in a single cloud-based platform that works on both Mac and PC.
+* [Blender](https://www.blender.org/) ::: [CAD Sketcher](https://www.cadsketcher.com/)<br>
+`Linux` `Windows`<br>
+CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender
+by bringing CAD like tools, features and usability to blender.
+
+# CAD - Script
+* [OpenSCAD](https://openscad.org/about.html)<br>
+`Linux` `Windows`<br>
+OpenSCAD is not an interactive modeller. Instead it is something like a 3D-compiler that reads in a script file that describes the object and renders the 3D model from this script file. This gives you (the designer) full control over the modelling process and enables you to easily change any step in the modelling process or make designs that are defined by configurable parameters.
+* [BRL-CAD](https://brlcad.org/)<br>
+`Linux` `Windows`<br>
+BRL-CAD is a constructive solid geometry solid modeling computer-aided design system. It includes an interactive geometry editor, ray tracing support for graphics rendering and geometric analysis, computer network distributed framebuffer support, scripting, image-processing and signal-processing tools.
 
 # Image editing
 * [Inkscape](https://inkscape.org/en/)<br>
